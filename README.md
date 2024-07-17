@@ -23,11 +23,10 @@ Developed a personal portfolio website to showcase my skills, projects, and expe
 - Code pushed to a GitHub repository.
 - Deployed on a cloud platform for global accessibility.
 
+### 💻 Link to Website
+  [My Portfolio](https://bhavana-portfolio-04.netlify.app/)
 
-💙 Link to the website: https://bhavana-portfolio-04.netlify.app/
-
-
-Let's Connect!
+### 🔗 Let's Connect!
 
 I'm always interested in new opportunities and collaboration. Feel free to reach out:
 
