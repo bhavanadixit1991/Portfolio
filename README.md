@@ -36,3 +36,4 @@ LinkedIn: www.linkedin.com/in/bhav04
 
 ![preview img](<img width="1285" alt="portfolio" src="https://github.com/user-attachments/assets/655c4b7f-5b79-42a6-b825-fc360a5ec85f">)
 
+<img width="1285" alt="portfolio" src="https://github.com/user-attachments/assets/4d3d92f5-88a7-45b0-b0b8-1baa7b5bee79">
