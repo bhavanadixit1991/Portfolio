@@ -31,9 +31,7 @@ Let's Connect!
 
 I'm always interested in new opportunities and collaboration. Feel free to reach out:
 
-Email: bhavanadixit_1991@yahoo.com
-LinkedIn: www.linkedin.com/in/bhav04
-
-![preview img](<img width="1285" alt="portfolio" src="https://github.com/user-attachments/assets/655c4b7f-5b79-42a6-b825-fc360a5ec85f">)
+- Email: bhavanadixit_1991@yahoo.com
+- LinkedIn: www.linkedin.com/in/bhav04
 
 <img width="1285" alt="portfolio" src="https://github.com/user-attachments/assets/4d3d92f5-88a7-45b0-b0b8-1baa7b5bee79">
